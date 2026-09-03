@@ -2,4 +2,4 @@ float_1 = 0.25
 float_2 = 40.0
 
 x = float_1 * float_2
-print x
+big_string = ""
