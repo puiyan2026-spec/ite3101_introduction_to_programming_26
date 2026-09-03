@@ -1,0 +1,1 @@
+greeting_message = "Welcome to Codecademy!"
