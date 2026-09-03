@@ -1,1 +1,1 @@
-025430today_date = date.today()
+todays_date = "Today's date"
