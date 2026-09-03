@@ -1,2 +1,2 @@
-todays_date = "Today's date"
+todays_date = date.today()
 x=date.today()
