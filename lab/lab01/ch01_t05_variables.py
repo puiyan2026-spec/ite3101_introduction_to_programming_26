@@ -1,1 +1,1 @@
-025430
+025430today_date = date.today()
