@@ -1,3 +1,3 @@
 # Set the variable brian on line 3!
 
-b
+brian = "Hello life!"
