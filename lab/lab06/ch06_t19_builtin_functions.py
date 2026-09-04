@@ -1,7 +1,7 @@
 from typing import Any
 
 
-def distance_from_zero(d: Any)->Any:
+def distance_from_zero(d: Any) -> Any:
     if type(d) == int or type(d) == float:
-    else: 
+    else:
         return "Nope"
