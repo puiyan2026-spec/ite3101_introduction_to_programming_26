@@ -3,6 +3,6 @@
 from math 
 
 
-print(sqrt(25))
+print(math.sqrt(25))
 
 
