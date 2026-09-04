@@ -1,3 +1,4 @@
 from datetime import datetime
 
-date = datetime.now()
+now = datetime.now()
+print(now)
