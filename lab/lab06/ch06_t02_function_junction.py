@@ -3,6 +3,6 @@
 # explain it soon!
 
 def spam()
-    primt
+    primt("Eggs!")
 # Define the spam function above this line.
 spam()
