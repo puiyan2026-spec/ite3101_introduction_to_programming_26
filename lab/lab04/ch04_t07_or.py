@@ -1,8 +1,8 @@
-bool_one = None
+bool_one = True
 
-bool_two = None
+bool_two = True
 
-bool_three = None
+bool_three = False
 
 bool_four = None
 
