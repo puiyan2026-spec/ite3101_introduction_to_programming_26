@@ -1,2 +1,2 @@
-parrot ="Norwegian Blue"
-print(len(parrot))s
+parrot = "Norwegian Blue"
+print(len(parrot))
