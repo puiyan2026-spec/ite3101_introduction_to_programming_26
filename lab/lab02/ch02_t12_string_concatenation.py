@@ -1,3 +1,3 @@
 # Print the concatenation of "Spam and eggs" on line 3!
 
-print("Spam" + )
+print("Spam" + "and" + "eggs")
