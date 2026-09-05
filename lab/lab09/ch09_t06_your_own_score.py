@@ -1,4 +1,4 @@
 prices={
-    banna":4,"
+    "banna":4,"
     "apple":
 }
