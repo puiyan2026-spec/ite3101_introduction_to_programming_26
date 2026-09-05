@@ -14,9 +14,6 @@ prices = {
     "pear": 3
 }
 
-
-
-
 # Write your code below!
 
 
