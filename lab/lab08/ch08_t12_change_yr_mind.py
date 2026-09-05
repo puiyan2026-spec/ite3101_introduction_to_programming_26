@@ -11,7 +11,7 @@ del zoo_animals['Unicorn']
 
 # Your code here!
 del zoo_animals["Sloth"]
-del zoo_animals["Bengal Tiger"]
+del zoo_animals['Bengal Tiger']
 
 zoo_animals['Rockhopper Prnguin'] = 'unknown Place' 
 
