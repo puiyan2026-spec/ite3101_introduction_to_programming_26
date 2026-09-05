@@ -9,5 +9,10 @@ stock = {
     "apple": 0,
     "orange": 32,
     "pear": 15,
-
 }
+
+for key in prices:
+    print(key)
+    print("price: " + str(price[key]))
+
+
