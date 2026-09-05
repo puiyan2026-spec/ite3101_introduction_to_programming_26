@@ -1,5 +1,5 @@
 def factorial(x: int) -> int:
-    valuse = 0
-    for i in range(x+1):
+    value = 1
+    for i in range(1, x+1):
         value *= i
-        return valuse
+        return value
