@@ -1,3 +1,7 @@
+
+
+
+
 def count(sequence: List[int], item:int)->int:
     result = 0
     for i in sequence:
