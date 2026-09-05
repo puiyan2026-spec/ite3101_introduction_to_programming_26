@@ -1,2 +1,3 @@
 
-def product(seq:List)
+def product(seq:List[int])->int:
+    result = 
