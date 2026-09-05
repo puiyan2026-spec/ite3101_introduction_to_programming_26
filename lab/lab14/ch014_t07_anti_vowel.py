@@ -1,4 +1,6 @@
-def anti_vowel(text:str->str:
-               result=""
-               fpor char in text:
-               if char ==a""o
+def anti_vowel(text: str)-> str:
+    result = ""
+    for char in text:
+        if char.lower() not in "aeiou":
+            result += char
+        return result
