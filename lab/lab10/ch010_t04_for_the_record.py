@@ -22,4 +22,4 @@ for student in students:
     print(student[""])
     print(student[""])
     print(student[""])
-print(student[""])
+    print(student[""])
