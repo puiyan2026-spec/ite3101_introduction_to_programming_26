@@ -10,5 +10,4 @@ alice={
     "homework": [],
     "quizzes": [],
     "tests": []
-
 }
