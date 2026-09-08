@@ -13,7 +13,7 @@ alice = {
 }
 
 tyler = {
-    "name": "",
+    "name": "T",
     "homework": [],
     "quizzes": [],
     "tests": []
