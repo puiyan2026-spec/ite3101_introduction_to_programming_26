@@ -4,3 +4,5 @@ n = 13
 
 
 # print(add_function(m, n))
+def add_function(x:int,y:int)->int:
+    returnx+y
