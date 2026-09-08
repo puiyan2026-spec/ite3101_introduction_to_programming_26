@@ -11,3 +11,10 @@ alice = {
     "quizzes": [],
     "tests": []
 }
+
+alice = {
+    "name": "Alice",
+    "homework": [],
+    "quizzes": [],
+    "tests": []
+}
