@@ -2,4 +2,7 @@ n = "Hello"
 # Your function here!
 
 
-# print(string_function(n))
+def string_function(s: str) -> str:
+    
+
+    # print(string_function(n))
