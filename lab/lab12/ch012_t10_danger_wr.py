@@ -36,3 +36,4 @@ else:
     print("You missed mu battleship!")
     board[guess_row][guess_col] = "x"
     print_board(board)
+    
