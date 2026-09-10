@@ -15,4 +15,4 @@ else:
     print("")
 
 
-    guesses_left -= 1
+    
