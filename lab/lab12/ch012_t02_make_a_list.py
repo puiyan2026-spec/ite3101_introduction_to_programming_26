@@ -1,4 +1,4 @@
 board =[]
 
 for i in range(5):
-    board.append(['o'])
+    board.append(['o'*5F])
