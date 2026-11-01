@@ -27,7 +27,7 @@ def grades_average(grades_input: List[float]) -> float:
     Computes the average of all grades in the list.
     """
     sum_of_grades = grades_sum(grades_input)
-    average = sum_of_grades / float(len(grades_input))
+    average = sum_of_grades / len(grades_input)
     return average
 
 
@@ -38,3 +38,9 @@ def grades_variance(scores: List[float]) -> float:
     average = grades_average(scores)
     variance = sum((average - score) ** 2 for score in scores) / len(scores)
     return variance
+
+
+# This ensures compatibility with the `execfile` function in the test
+if __name__ == "__main__":
+    # Print only the variance value, as required by the test
+    print(grades_variance(grades))
